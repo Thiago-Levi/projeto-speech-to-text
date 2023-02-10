@@ -1,4 +1,3 @@
-<img alt="logo de voice" src="./src/img/voiceicon.png">
 
 # Projeto Speech To Text
 
