@@ -11,7 +11,7 @@ Infos:
 - Exibe o texto de forma continua em relação ao que é falado.
 
 Infos extras:
-
+- ATENÇÃO: NÃO ESTÁ ESTÁVEL PARA CHROME ANDROID
 - Implementei a resposividade da página
 
 ## Tecnologias
