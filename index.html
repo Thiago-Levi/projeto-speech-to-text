@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Speech to text</title>
+
+</head>
+<body>
+  <main wrapper>
+    <h1>Speech Recognition</h1>
+    <textarea  data-js="texteArea" placeholder="Olá, clique no primeiro botão à esquerda, fale e aguarde..." name="" id="" rows="10" focus></textarea>
+    <div class="btns-wrapper">
+      <button class="btn-voice"  data-js="buttonOfPlay" ><img src="./src/img/voiceIcon.png" alt="Botão de play" title="clique para iniciar"></button>
+      <button class="btn-pause"  data-js="buttonOfPause" ><img src="./src/img/pause-button-icon.png" alt="Botão de pause" title="clique para pausar"></button>
+      <button class="btn-remove" data-js="buttonOfRemove" ><img src="./src/img/remove-button-icon.png" alt="Botão de remover" title="clique para remover o texto"></button>
+
+    </div>
+  </main>
+  
+  <script src="./js/app.js"></script>
+</body>
+</html>

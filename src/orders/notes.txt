@@ -1,0 +1,7 @@
+Docunenbtação 
+https://wicg.github.io/speech-api/#dom-speechrecognition
+
+Observações:
+
+A API não consegue reconhecer muito bem onomatopéias. 
+
