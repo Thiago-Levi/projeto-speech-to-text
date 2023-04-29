@@ -22,8 +22,8 @@ Infos extras:
 
 <h2 align="center">Versão Web</h2>
 
-<img src="./src/img/tela01.gif" alt="Gif de uma página de busca de pokemons "> 
+<img src="./src/img/tela01.gif" alt="Gif de uma página de busca de perfis no Github "> 
 ___
 
 <h2 align="center">Versão Mobile</h2>
-<img src="./src/img/tela02.gif" alt="Gif de uma página de busca de pokemons">
+<img src="./src/img/tela02.gif" alt="Gif de uma página de busca de perfis no Github">
