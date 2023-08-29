@@ -1,17 +1,24 @@
 
-# Projeto Speech To Text
+# Projeto Speech To Text PARA google chrome
 
-### Implementei esse projeto utilizando a Web API - Speech Recognition. O projeto consiste em uma página onde o usuário fala algo e logo em seguida essa fala é transcrita na tela.
+### Implementei esse projeto utilizando a Web API - Speech Recognition. 
+### O projeto consiste em uma página onde o usuário fala algo e logo em seguida essa fala é transcrita na tela.
 
 👀 Dá uma olhada aqui: <https://thiago-levi.github.io/projeto-speech-to-text/>
 
-Infos:
+# Como utilizar:
+- Abra este link pelo GOOGLE CHROME <https://thiago-levi.github.io/projeto-speech-to-text/>
+- Clique o ícone de iniciar/falar
+- Permita o uso do microfone pelo navegador
+- Fale algo
+- A fala será convertida em texto pelo navegador.
 
+Infos:
 - Exibe um área de texto contendo a fala do usuário.
 - Exibe o texto de forma continua em relação ao que é falado.
 
 Infos extras:
-- ATENÇÃO: NÃO ESTÁ ESTÁVEL PARA CHROME ANDROID
+- ATENÇÃO: NÃO ESTÁ ESTÁVEL PARA CHROME ANDROID E OUTROS NAVEGADORES
 - Implementei a resposividade da página
 
 ## Tecnologias
