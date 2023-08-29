@@ -12,6 +12,8 @@
 - Permita o uso do microfone pelo navegador
 - Fale algo
 - A fala será convertida em texto pelo navegador.
+- Quando quiser, clique no ícone para parar.
+- Quando quiser, clique no ícone para limpar a tela.
 
 Infos:
 - Exibe um área de texto contendo a fala do usuário.
