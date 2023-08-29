@@ -16,7 +16,7 @@
 - Quando quiser, clique no ícone para limpar a tela.
 
 Infos:
-- Exibe um área de texto contendo a fala do usuário.
+- Exibe uma área de texto contendo a fala do usuário.
 - Exibe o texto de forma continua em relação ao que é falado.
 
 Infos extras:
