@@ -1,7 +1,7 @@
 const buttonOfPlay = document.querySelector('[data-js="buttonOfPlay" ]');
 const buttonOfPause = document.querySelector('[data-js="buttonOfPause"]');
 const buttonOfRemove = document.querySelector('[data-js="buttonOfRemove"]');
-const textArea = document.querySelector('[data-js="texteArea"]');
+let textArea = document.querySelector('[data-js="texteArea"]');
 
 const SpeechRecognition =
   window.SpeechRecognition || window.webkitSpeechRecognition;
